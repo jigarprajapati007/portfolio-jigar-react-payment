@@ -1,0 +1,1 @@
+export const green = require('../assets/greenRIght.png')
